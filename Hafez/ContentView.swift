@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "play")
+            Image(systemName: "globe.europe.africa.fill")
                 .imageScale(.large)
                 .foregroundStyle(.yellow)
             Text("Hello, world!")
