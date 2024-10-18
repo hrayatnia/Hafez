@@ -24,7 +24,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		584D2E792CC2B23100C654AE /* Hafez.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hafez.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		584D2E792CC2B23100C654AE /* Hafez Poems.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hafez Poems.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		584D2E8A2CC2B23200C654AE /* HafezTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HafezTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		584D2E942CC2B23200C654AE /* HafezUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HafezUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -85,7 +85,7 @@
 		584D2E7A2CC2B23100C654AE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				584D2E792CC2B23100C654AE /* Hafez.app */,
+				584D2E792CC2B23100C654AE /* Hafez Poems.app */,
 				584D2E8A2CC2B23200C654AE /* HafezTests.xctest */,
 				584D2E942CC2B23200C654AE /* HafezUITests.xctest */,
 			);
@@ -95,9 +95,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		584D2E782CC2B23100C654AE /* Hafez */ = {
+		584D2E782CC2B23100C654AE /* Hafez Poems */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 584D2E9E2CC2B23200C654AE /* Build configuration list for PBXNativeTarget "Hafez" */;
+			buildConfigurationList = 584D2E9E2CC2B23200C654AE /* Build configuration list for PBXNativeTarget "Hafez Poems" */;
 			buildPhases = (
 				584D2E752CC2B23100C654AE /* Sources */,
 				584D2E762CC2B23100C654AE /* Frameworks */,
@@ -111,11 +111,11 @@
 			fileSystemSynchronizedGroups = (
 				584D2E7B2CC2B23100C654AE /* Hafez */,
 			);
-			name = Hafez;
+			name = "Hafez Poems";
 			packageProductDependencies = (
 			);
 			productName = Hafez;
-			productReference = 584D2E792CC2B23100C654AE /* Hafez.app */;
+			productReference = 584D2E792CC2B23100C654AE /* Hafez Poems.app */;
 			productType = "com.apple.product-type.application";
 		};
 		584D2E892CC2B23200C654AE /* HafezTests */ = {
@@ -201,7 +201,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				584D2E782CC2B23100C654AE /* Hafez */,
+				584D2E782CC2B23100C654AE /* Hafez Poems */,
 				584D2E892CC2B23200C654AE /* HafezTests */,
 				584D2E932CC2B23200C654AE /* HafezUITests */,
 			);
@@ -280,12 +280,12 @@
 /* Begin PBXTargetDependency section */
 		584D2E8C2CC2B23200C654AE /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 584D2E782CC2B23100C654AE /* Hafez */;
+			target = 584D2E782CC2B23100C654AE /* Hafez Poems */;
 			targetProxy = 584D2E8B2CC2B23200C654AE /* PBXContainerItemProxy */;
 		};
 		584D2E962CC2B23200C654AE /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 584D2E782CC2B23100C654AE /* Hafez */;
+			target = 584D2E782CC2B23100C654AE /* Hafez Poems */;
 			targetProxy = 584D2E952CC2B23200C654AE /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -587,7 +587,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		584D2E9E2CC2B23200C654AE /* Build configuration list for PBXNativeTarget "Hafez" */ = {
+		584D2E9E2CC2B23200C654AE /* Build configuration list for PBXNativeTarget "Hafez Poems" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				584D2E9F2CC2B23200C654AE /* Debug */,
