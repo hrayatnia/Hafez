@@ -16,8 +16,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "584D2E782CC2B23100C654AE"
-               BuildableName = "Hafez.app"
-               BlueprintName = "Hafez"
+               BuildableName = "Hafez Poems.app"
+               BlueprintName = "Hafez Poems"
                ReferencedContainer = "container:Hafez.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -69,8 +69,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "584D2E782CC2B23100C654AE"
-            BuildableName = "Hafez.app"
-            BlueprintName = "Hafez"
+            BuildableName = "Hafez Poems.app"
+            BlueprintName = "Hafez Poems"
             ReferencedContainer = "container:Hafez.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -86,8 +86,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "584D2E782CC2B23100C654AE"
-            BuildableName = "Hafez.app"
-            BlueprintName = "Hafez"
+            BuildableName = "Hafez Poems.app"
+            BlueprintName = "Hafez Poems"
             ReferencedContainer = "container:Hafez.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
